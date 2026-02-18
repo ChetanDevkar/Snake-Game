@@ -29,7 +29,8 @@ This game includes score tracking, high score storage, timer functionality, paus
 ## 📂 Project Structure
 Snake-Game/
 │
-├── index.html # Main HTML structure
+├── index.html # Main HTML structure 
+---
 ├── style.css # Styling and layout
 ├── script.js # Game logic
 └── README.md # Project documentation
