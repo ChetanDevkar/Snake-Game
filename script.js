@@ -8,7 +8,7 @@ const restartButton = document.querySelector(".btn-restart")
 const highScoreElement = document.querySelector("#high-score")
 const scoreElement = document.querySelector("#score")
 const timeElement = document.querySelector("#time")
-
+ 
 const blockHeight = 50; 
 const blockWidth = 50;
 
