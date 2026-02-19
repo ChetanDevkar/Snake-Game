@@ -4,7 +4,7 @@ const modal = document.querySelector(".modal");
 const startGameModal = document.querySelector (".start-game")
 const gameOverModal = document.querySelector (".game-over")
 const restartButton = document.querySelector(".btn-restart")
-
+ 
 const highScoreElement = document.querySelector("#high-score")
 const scoreElement = document.querySelector("#score")
 const timeElement = document.querySelector("#time")
