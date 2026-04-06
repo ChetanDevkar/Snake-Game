@@ -12,7 +12,7 @@ This game includes score tracking, high score storage, timer functionality, paus
 - ⏱ Live Timer 
 - ⏸ Pause/Resume feature (Press **P**)
 - ⬆⬇⬅➡ Arrow key controls
-- 💥 Wall collision detection
+- 💥 Wall collision detection 
 - 🍎 Random food generation
 - 📱 Responsive grid layout
 
