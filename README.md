@@ -5,7 +5,7 @@ This game includes score tracking, high score storage, timer functionality, paus
  
 ---
 
-## 🚀 Features 
+## 🚀 Features  
   
 - 🎮 Start and Restart Game
 - 🏆 High Score saved using LocalStorage 
