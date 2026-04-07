@@ -8,7 +8,7 @@ This game includes score tracking, high score storage, timer functionality, paus
 ## 🚀 Features  
   
 - 🎮 Start and Restart Game
-- 🏆 High Score saved using LocalStorage 
+- 🏆 High Score saved using LocalStorage  
 - ⏱ Live Timer 
 - ⏸ Pause/Resume feature (Press **P**)
 - ⬆⬇⬅➡ Arrow key controls
