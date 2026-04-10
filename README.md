@@ -9,7 +9,7 @@ This game includes score tracking, high score storage, timer functionality, paus
   
 - 🎮 Start and Restart Game
 - 🏆 High Score saved using LocalStorage  
-- ⏱ Live Timer 
+- ⏱ Live Timer  
 - ⏸ Pause/Resume feature (Press **P**)  
 - ⬆⬇⬅➡ Arrow key controls
 - 💥 Wall collision detection 
