@@ -1,6 +1,6 @@
 const board = document.querySelector('.board');
 const startButton = document.querySelector(".btn-start")
-const modal = document.querySelector(".modal");
+const modal = document.querySelector(".modal"); 
 const startGameModal = document.querySelector (".start-game")
 const gameOverModal = document.querySelector (".game-over")   
 const restartButton = document.querySelector(".btn-restart")
