@@ -10,7 +10,7 @@ const scoreElement = document.querySelector("#score")
 const timeElement = document.querySelector("#time") 
  
 const blockHeight = 50 ; 
-const blockWidth = 50 ;
+const blockWidth = 50  ;
 
 let isPaused = false;
 let gameSpeed = 300; 
