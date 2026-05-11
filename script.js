@@ -16,7 +16,7 @@ let isPaused = false;
 let gameSpeed = 300; 
 
 
-let highScore =  localStorage.getItem("highScore") || 0;
+let highScore =  localStorage.getItem("highScore") || 0   ;
 let score = 0;
 let time = `00-00`
 
