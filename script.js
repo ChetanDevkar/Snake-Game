@@ -31,8 +31,7 @@ let food = {x: Math.floor(Math.random() * rows), y: Math.floor(Math.random() * c
 
 const blocks = []
 let snake =[{
-    x:1, y:3
-  } ]
+    x:1, y:3 } ]
 
 let direction = 'down'
 
