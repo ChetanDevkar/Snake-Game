@@ -12,7 +12,7 @@ const timeElement = document.querySelector("#time")
 const blockHeight = 50 ;   
 const blockWidth = 50  ;
 
-let isPaused = false ;
+let isPaused = false;
 let gameSpeed = 300; 
 
 
