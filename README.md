@@ -19,7 +19,7 @@ This game includes score tracking, high score storage, timer functionality, paus
 ---
 
 ## 🛠 Technologies Used
-
+ 
 - HTML5
 - CSS3 (Grid Layout & Custom Variables)
 - JavaScript (DOM Manipulation, Game Logic, LocalStorage)
