@@ -1,7 +1,7 @@
 #  Snake Game
 
 A classic Snake Game built using **HTML, CSS, and JavaScript**  .  
-This game includes score tracking, high score storage, timer functionality, pause/resume feature  ,  and smooth grid-based movement.
+This game includes score tracking, high score storage, timer functionality, pause/resume feature  , and smooth grid-based movement.
  
 ---
 
