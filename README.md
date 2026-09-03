@@ -59,7 +59,7 @@ Even after refreshing the page, your high score remains saved.
 
 ## 🧠 Game Logic Overview
 
-- The board is created dynamically using JavaScript grid blocks.
+- The board is created dynamically using JavaScript grid blocks .
 - Snake movement is controlled using keyboard events.
 - Food is generated at random positions.
 - Score increases by 10 points per food.
