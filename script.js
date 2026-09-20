@@ -17,10 +17,10 @@ let gameSpeed = 300 ;
 //gamespeed is add 
 
 
-let highScore =  localStorage.getItem("highScore") || 0;
+let highScore =  localStorage.getItem("highScore") || 0 ;
 let score = 0;
 let time = `00-00`
-
+//highscore is added
 highScoreElement.innerText = highScore 
 
 const cols = Math.floor(board.clientWidth / blockWidth);
