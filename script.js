@@ -13,7 +13,8 @@ const blockHeight = 50;
 const blockWidth = 50;
 
 let isPaused = false;
-let gameSpeed = 300; 
+let gameSpeed = 300 ;
+//gamespeed is add 
 
 
 let highScore =  localStorage.getItem("highScore") || 0;
